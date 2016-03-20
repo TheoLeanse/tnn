@@ -211,3 +211,24 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+.main {
+  margin: auto;
+  max-width: 600px;
+}
+.header{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 20px;
+}
+.logo {
+  width: 100%;
+  max-width: 600px;
+}
+.flex-container{
+  display: flex;
+  background: black;
+}
+.flex-item {
+  width: 400px;
+
+}
